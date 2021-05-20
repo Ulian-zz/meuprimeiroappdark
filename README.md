@@ -7,3 +7,4 @@
 
 
 I´m currently learning Dart and Flutter mobile in the Rockteseat course.
+The second app is the dark mode.
